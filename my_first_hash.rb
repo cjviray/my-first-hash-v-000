@@ -1,6 +1,5 @@
 def my_hash
  hash = {"name" => "the Rock"}
-  
 end
 
 
